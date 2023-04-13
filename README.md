@@ -1,7 +1,7 @@
 # quantum_physics
 Demo of Photon Quantum Physics WEB GL App
 
-Hi, this is the simple demo of Photon Quantum Phycis sync on WEBGL
+Hi, this is the simple demo of Photon Quantum Phycis sync on WEBGL. 100% Syncing of the physics on WEB
 
 
 # https://quantum-physics.vercel.app
